@@ -257,4 +257,4 @@ make run
 ---
 
 ## Screenshot Hasil
-
+![Image](https://github.com/user-attachments/assets/4db1a804-ffd2-4c34-8c0d-4fb92916a250)
